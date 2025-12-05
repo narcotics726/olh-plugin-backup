@@ -1,0 +1,18 @@
+# Build
+/target
+**/*.rs.bk
+
+# IDE / tooling
+/.vscode
+/.idea
+/.DS_Store
+/.serena
+/.direnv
+
+# Logs
+*.log
+
+# Environment / local config
+.env
+.env.*
+.envrc
